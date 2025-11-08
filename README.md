@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Michael Camara</h1>
-<h3 align="center">A passionate fro and I'm an aspiring Developer from Philippinesntend developer from India</h3>
+<h3 align="center">An aspiring web-dev from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maikhell&label=Profile%20views&color=0e75b6&style=flat" alt="maikhell" /> </p>
 
