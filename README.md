@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://fb.com/johnmichaelcamara](https://www.facebook.com/profile.php?id=100085646572710)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="johnmichaelcamara" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100085646572710" target="blank"><img align="center](https://www.facebook.com/profile.php?viewas=100000686899395&id=100085646572710)" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="johnmichaelcamara" height="30" width="40" /></a>
 <a href="https://instagram.com/_maykhell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_maykhell" height="30" width="40" /></a>
 </p>
 
