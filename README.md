@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maikhell" alt="maikhell" /></a> </p>
 
-- 🔭 I’m currently working on [CampusBuy](https://github.com/Maikhell/campusbuy-django)
+- 🔭 I’m currently working on [U-Trade E-Commerce For CVSU-Bacoor Campus](https://github.com/Maikhell/campusbuy-django)
 
 - 🌱 I’m currently learning **Django**
 
